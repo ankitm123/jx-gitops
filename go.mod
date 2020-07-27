@@ -6,7 +6,7 @@ require (
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/go-yaml/yaml v2.1.0+incompatible
 	github.com/google/go-cmp v0.4.0
-	github.com/jenkins-x/go-scm v1.5.141
+	github.com/jenkins-x/go-scm v1.5.150
 	github.com/jenkins-x/jx-api v0.0.16
 	github.com/jenkins-x/jx-apps v0.0.1
 	github.com/jenkins-x/jx-helpers v1.0.33
