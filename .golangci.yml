@@ -111,7 +111,7 @@ issues:
   max-same-issues: 0
 
 run:
-  timeout: 30m
+  timeout: 45m
   skip-dirs:
     - cmd/docs
 # golangci.com configuration

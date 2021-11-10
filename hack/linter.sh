@@ -17,4 +17,5 @@ fi
 export GO111MODULE=on
 golangci-lint run \
   --verbose \
+  --timeout 45m \
   --build-tags build
